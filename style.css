@@ -5,3 +5,20 @@ body{
 .cabeçalho-imagem{
     width: 20%;
 }
+.cabeçalho-imagem{
+   background-color: #383D58;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   padding: 24px 0;
+}
+  .cabeçalho-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+  }
+  {
+    margin: 0;
+    padding: 0;
+  }
